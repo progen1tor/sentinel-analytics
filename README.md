@@ -1,7 +1,7 @@
 # Sentinel Analytics
 
 Анализ продаж магазина охранных систем Sentinel за 2026 год.  
-**HSE minor project, 2026**
+**HSE Fundamentals of Applied Programming project, 2026**
 
 ## Стек
 - Python 3.13
